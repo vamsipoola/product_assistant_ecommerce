@@ -1,3 +1,4 @@
-langchain
-langchain_core
-python-dotenv
+langchain==1.4.0       
+python-dotenv==1.2.3    
+langchain_core==1.6.3
+streamlit==1.64.0
